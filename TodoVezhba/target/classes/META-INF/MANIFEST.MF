@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: TodoVezhba
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: angel
+Implementation-Vendor-Id: com.codeacademy.todo5.vezhba
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://spring.io/projects/spring-boot/TodoVezhba
+Created-By: Maven Integration for Eclipse
+
